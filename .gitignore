@@ -1,0 +1,10 @@
+.env
+__pycache__/
+venv/
+venv\
+quran_bilingual_db/
+.venv/
+*.pyc
+/.vscode/
+DOCUMENTATION.md
+PROJECT_FLOW.md
